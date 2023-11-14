@@ -1,0 +1,52 @@
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_7.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_7_plot.csv ps__0097_shot_7_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_3.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_3_plot.csv ps__0097_shot_3_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_10.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_10_plot.csv ps__0097_shot_10_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_0.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_0_plot.csv ps__0097_shot_0_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_9.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_9_plot.csv ps__0097_shot_9_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_8.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_8_plot.csv ps__0097_shot_8_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_19.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_19_plot.csv ps__0097_shot_19_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_12.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_12_plot.csv ps__0097_shot_12_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_24.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_24_plot.csv ps__0097_shot_24_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_16.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_16_plot.csv ps__0097_shot_16_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_13.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_13_plot.csv ps__0097_shot_13_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_23.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_23_plot.csv ps__0097_shot_23_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_15.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_15_plot.csv ps__0097_shot_15_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_4.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_4_plot.csv ps__0097_shot_4_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_2.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_2_plot.csv ps__0097_shot_2_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_18.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_18_plot.csv ps__0097_shot_18_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_14.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_14_plot.csv ps__0097_shot_14_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" Config_P_ev1_Jul2021_plot.csv Config_P_ev1_Jul2021_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_5.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_5_plot.csv ps__0097_shot_5_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_1.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_1_plot.csv ps__0097_shot_1_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_17.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_17_plot.csv ps__0097_shot_17_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_21.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_21_plot.csv ps__0097_shot_21_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_20.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_20_plot.csv ps__0097_shot_20_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_22.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_22_plot.csv ps__0097_shot_22_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_6.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_6_plot.csv ps__0097_shot_6_log.txt 
+
+./Piquant quant "Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa" "Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv" ps__0097_0675553164_000rfs_shot_11.msa "Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I" ps__0097_shot_11_plot.csv ps__0097_shot_11_log.txt 
+
