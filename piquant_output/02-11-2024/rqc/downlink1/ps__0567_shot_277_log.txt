@@ -1,0 +1,95 @@
+-----------------------------------------------------------------
+PIQUANT   Quantitative X-ray Fluorescence Analysis
+Written for PIXL, the Planetary Instrument for X-ray Lithochemistry
+0.0.0-main   W. T. Elam   APL/UW
+Local time:  2024-02-11 13:24:53
+
+Configuration read from file Config_PIXL_FM_SurfaceOps_Rev1_Jul2021.msa
+
+Element list: Na_K Mg_K Al_K Si_K P_K S_K Cl_K K_K Ca_K Ti_K Cr_K Mn_K Fe_K Ni_K Zn_K Br_K Ar_I
+
+Reading spectrum from file ps__0567_0717304816_000rfs_shot_277.msa
+Spectrum read OK, 2 detectors
+Detector 0  live time 8.80    energy calibration   eV start = 18.5  eV/ch = 7.8620    total counts = 106785
+Detector 1  live time 8.80    energy calibration   eV start = -22.4  eV/ch = 7.8810    total counts = 112348
+Both detectors summed (after matching channels using individual energy calibrations), total counts = 218127
+
+
+Reading standard information from file Calibration_PIXL_FM_SurfaceOps_5minECFs_Rev1_Jul2021.csv
+Calibration file read OK, entries for 20 standards read in.
+
+Final element calibration factors and uncertainties for this unknown (overall ECF is 0.9861, overall ECF relative error is 5.6 %)
+     Element       , ECF, Total weight, ECF uncertainty (relative percent)
+          Na,         0.7542,           1.00,            0.9
+          Mg,         0.9784,           1.00,            0.6
+          Al,         0.9911,           1.00,            0.3
+          Si,         1.0233,           1.00,            0.3
+           P,         1.0782,           0.00,            1.0
+           S,         1.1330,           2.00,            1.7
+          Cl,         1.0328,           1.00,            0.3
+           K,         0.9798,           2.00,            1.8
+          Ca,         1.0129,           1.00,            0.3
+          Ti,         0.9906,           1.00,            0.0
+          Cr,         0.9849,           0.00,            0.0
+          Mn,         0.9821,           0.00,            0.0
+          Fe,         0.9792,           1.00,            0.0
+          Ni,         0.9409,           0.00,            6.4
+          Zn,         0.9025,           2.00,           12.8
+          Br,         0.9922,           2.00,            8.7
+    ECF uncertainty is included in total quant error and includes standard fitting errors and certificate uncertainties
+
+*** Warning - calculated intensity is zero (or negative or nan) for component Fe_L (it is being disabled).   0.0000
+
+
+Fit results after 19 iterations, reduced chi sq = 0.70         live time 17.60 sec.
+Final energy calibration (eV):   eV start = -1.1  eV/ch = 7.8674  detector resolution (eV): 182  (at 5984 eV)  fano = 0.111
+      Energy correction offset -19.58 eV   slope change 0.07 %
+
+XRS L5 requirements info: 
+  L5-XRS-03    total count rate (1.00 keV to 7.25 keV) = 11961 cps (correct energy range)
+  L5-XRS-10    Si intensity = 20451, Fe intensity = 117471,   Si/Fe ratio = 0.17
+
+Fitted elements
+    Na2O      3.37 %      Na_K   int     43.2  coeff   0.7537   re_c     35.3%   abs_err(1s)   1.3096%
+     MgO      6.80 %      Mg_K   int    547.3  coeff   0.9784   re_c      5.0%   abs_err(1s)   0.4839%
+   Al2O3      7.76 %      Al_K   int   1821.3  coeff   0.9910   re_c      2.7%   abs_err(1s)   0.4404%
+    SiO2     37.70 %      Si_K   int  20451.0  coeff   1.0233   re_c      0.7%   abs_err(1s)   1.9076%
+    P2O5      1.72 %       P_K   int   1327.0  coeff   1.0780   re_c      3.4%   abs_err(1s)   0.4778%
+     SO3      8.82 %       S_K   int  13131.0  coeff   1.1330   re_c      0.9%   abs_err(1s)   0.4743%
+      Cl    3.3627 %      Cl_K   int   9676.9  coeff   1.0329   re_c      1.6%   abs_err(1s)   0.5501%
+     K2O      0.49 %       K_K   int   1059.8  coeff   0.9797   re_c      4.3%   abs_err(1s)   0.1891%
+     CaO      6.52 %      Ca_K   int  18485.9  coeff   1.0129   re_c      0.8%   abs_err(1s)   0.3306%
+    TiO2      0.75 %      Ti_K   int   2560.5  coeff   0.9907   re_c      2.7%   abs_err(1s)   0.2571%
+   Cr2O3      0.10 %      Cr_K   int    560.9  coeff   0.9847   re_c      9.7%   abs_err(1s)   0.1160%
+     MnO      0.21 %      Mn_K   int   1161.8  coeff   0.9819   re_c      5.5%   abs_err(1s)   0.1967%
+   FeO-T     22.29 %      Fe_K   int 117471.2  coeff   0.9793   re_c      0.3%   abs_err(1s)   1.1165%
+      Ni    0.0495 %      Ni_K   int    208.4  coeff   0.9408   re_c     16.0%   abs_err(1s)   0.0215%
+      Zn    0.1008 %      Zn_K   int    333.1  coeff   0.9027   re_c     10.0%   abs_err(1s)   0.0429%
+      Br    0.0449 %      Br_K   int     56.8  coeff   0.9924   re_c     33.2%   abs_err(1s)   0.0336%
+Matrix elements
+    O   40.8775 %     (40.88 % from stoichiometry)
+
+    Element sum 100.11 %
+
+Other spectrum components
+   0      Ar_K  int   -177.3  coeff  -0.0150   not included
+   1     DetCE  int     13.5  coeff   1.0000   not fit
+   15      Br_L  int     15.1  coeff   0.9924   not fit (tracks quant component)
+   18      Zn_L  int      1.3  coeff   0.9027   not fit (tracks quant component)
+   20      Ni_L  int      0.1  coeff   0.9408   not fit (tracks quant component)
+   21      Fe_L  int      0.0  coeff   0.9793   not included
+   22  Rh_K_coh  int     15.8  coeff   1.3681   re_c    79.46%
+   23  Rh_L_coh  int   2559.9  coeff   0.5861   re_c     6.44%
+   24  Rh_K_inc  int     56.8  coeff   1.4716   re_c    41.24%
+   25    Pileup  int    377.0  coeff   2.0705   re_c    12.25%
+   26    Pileup  int      0.0  coeff   1.0000   re_c     0.00%
+   27  Rh_L_coh_Lb1  int   1633.5  coeff   1.1331   re_c     4.91%
+   28  calc bkg0  int  18901.0  coeff   1.9292   not fit
+   29  SNIP bkg  int   6070.3  coeff   1.0000   not fit
+
+
+
+Writing plot to file ps__0567_shot_277_plot.csv      4096 channels.
+
+Execution finished, CPU time 5.9643 secs.
+
